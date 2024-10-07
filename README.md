@@ -1,3 +1,3 @@
-# Bootcamp
+# Bootcampers
 
 ## Repo for demo purposes
